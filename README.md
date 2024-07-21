@@ -1,4 +1,0 @@
-164.92.253.10 growtopia1.com
-164.92.253.10 growtopia2.com
-164.92.253.10 www.growtopia1.com
-164.92.253.10 www.growtopia2.com
